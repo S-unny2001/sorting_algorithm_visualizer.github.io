@@ -1,4 +1,7 @@
 # sorting_algorithm_visualizer.github.io
+By - Sanskar Chouhan
+Live demonstration - https://s-unny2001.github.io/sorting_algorithm_visualizer.github.io/
+
 
 A web application showcasing the inner workings of sorting algorithms.
 
